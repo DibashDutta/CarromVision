@@ -1,7 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Carrom Vision</string>
-    <string name="learn_button">Learn Game Physics</string>
-    <string name="start_overlay_button">Start Overlay</string>
-    <string name="accessibility_description">Accessibility helper for overlay responsiveness</string>
-    <string name="learning_complete">Learning Complete — Please close and reopen Carrom Pool through Carrom Vision.</string>
+    <string name="app_name">CarromVision</string>
 </resources>
